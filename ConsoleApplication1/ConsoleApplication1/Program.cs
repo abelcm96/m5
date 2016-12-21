@@ -12,7 +12,7 @@ namespace ConsoleApplication1
         {
             for (int i = 0; i < 5; i++)
             {
-                Console.WriteLine("Hola a tothom, ho torno a canviar", i);
+                Console.WriteLine("Hola a tothom, ho torno a canviar per 3a vegada", i);
             }
         }
     }
